@@ -1,0 +1,31 @@
+title: Barraca da Márcia
+email: SamiHaua@aol.com
+description: You can update description in update blog details page.
+
+baseurl: "/"
+url: http://keralahost.in/samihaua
+google_adsense: Your-adsense-code
+
+markdown: kramdown
+
+name: Barraca da Márcia
+
+date: 2019-05-24 21:36:11 +0000
+
+
+logo: false
+sass:
+    load_paths:
+        - _sass
+        - bs
+paginate: 10
+adsid: ca-pub-8582082279264878
+domain_name: http://keralahost.in/samihaua/
+google_analytics: UA-31XXXXXX-X
+gems:
+  - jekyll-paginate
+  - jekyll-sitemap
+cover: 
+author_image: 
+
+author: samihaua
